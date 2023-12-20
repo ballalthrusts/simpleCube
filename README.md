@@ -38,6 +38,9 @@ To use the Cube class in your project, follow these steps:
 
 3. **Implement the methods in `Cube.cpp` in your project.**
 
+4. **Configure Build and Run Tasks:**
+   - Make sure you have the necessary build and run configurations in your project. Check the `tasks.json` file for build tasks and the `launch.json` file for run configurations.
+
 ## Usage Example
 
 Here's an example of how to use the Cube class in your C++ program:
@@ -68,6 +71,6 @@ int main() {
 
 The project directory includes additional files:
 
-- `other files`: Link to a delightful image of a happy cat.
+- [`other_files`](#other-files): Link to a delightful image of a happy cat.
 
 Feel free to explore and use these additional files as needed.
