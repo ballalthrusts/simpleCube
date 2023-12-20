@@ -7,8 +7,8 @@ This C++ project implements a simple Cube class with basic functionality to calc
 - [Introduction](#introduction)
 - [Class Features](#class-features)
 - [Getting Started](#getting-started)
-- [Usage Example](#usage-example)
 - [Additional Files](#additional-files)
+- [Usage Example](#usage-example)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -41,6 +41,14 @@ To use the Cube class in your project, follow these steps:
 4. **Configure Build and Run Tasks:**
    - Make sure you have the necessary build and run configurations in your project. Check the `tasks.json` file for build tasks and the `launch.json` file for run configurations.
 
+## Additional Files
+
+The project directory includes additional files:
+
+- [`other_files`](#other-files): Link to a delightful image of a happy cat.
+
+Feel free to explore and use these additional files as needed.
+
 ## Usage Example
 
 Here's an example of how to use the Cube class in your C++ program:
@@ -66,11 +74,3 @@ int main() {
 
     return 0;
 }
-
-## Additional Files
-
-The project directory includes additional files:
-
-- [`other_files`](#other-files): Link to a delightful image of a happy cat.
-
-Feel free to explore and use these additional files as needed.
