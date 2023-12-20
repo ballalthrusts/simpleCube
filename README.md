@@ -68,6 +68,6 @@ int main() {
 
 The project directory includes additional files:
 
-- `other files/happy_cat.jpg`: A delightful image of a happy cat.
+- `other files`: Link to a delightful image of a happy cat.
 
 Feel free to explore and use these additional files as needed.
