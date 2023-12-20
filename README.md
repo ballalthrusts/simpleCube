@@ -30,7 +30,7 @@ To use the Cube class in your project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone <git clone https://github.com/ballalthrusts/simpleCube.git>
     ```
 
 2. **Include the `Cube.h` header file in your project.**
