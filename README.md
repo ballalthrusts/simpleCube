@@ -8,6 +8,7 @@ This C++ project implements a simple Cube class with basic functionality to calc
 - [Class Features](#class-features)
 - [Getting Started](#getting-started)
 - [Usage Example](#usage-example)
+- [Additional Files](#additional-files)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -62,3 +63,11 @@ int main() {
 
     return 0;
 }
+
+## Additional Files
+
+The project directory includes additional files:
+
+- `other files/happy_cat.jpg`: A delightful image of a happy cat.
+
+Feel free to explore and use these additional files as needed.
