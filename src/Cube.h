@@ -1,11 +1,15 @@
 #pragma once
 
-class Cube {
-    public:
-        double getVolume();
-        double getSurfaceArea();
-        void setLength(double length);
+//take the uiuc off if you want to make use of main.cpp or Cube.cpp
 
-    private:
-        double length_;
-};
+namespace uiuc {
+    class Cube {
+        public:
+            double getVolume();
+            double getSurfaceArea();
+            void setLength(double length);
+
+        private:
+            double length_;
+    };
+}
